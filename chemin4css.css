@@ -1,0 +1,61 @@
+.kirby img{
+  width: 100px;
+}
+
+.navbar {
+  margin-left: -12%;
+  margin-right: -12%;
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 15px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.navbar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.navbar ul li {
+  display: inline;
+  margin: 0 20px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  color: rgb(60, 0, 23);
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.navbar ul li a:hover {
+  color: #db4074;
+}
+
+body {
+  font-size: 18px;
+  font-family: "Josefin Sans", serif;
+  text-align: justify;
+  text-align-last: center;
+  margin-left: 12%;
+  margin-right: 12%;
+  padding:0;
+  background: url('./images/background_street.jpg') no-repeat center fixed; 
+  background-size: auto;
+  color :#a11259;
+}
+
+p {
+  margin-top: 180px;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  width: 98%;
+  background: #ffffff;
+  box-shadow: 0 2px 5px rgba(32, 6, 18, 0.2);
+}
