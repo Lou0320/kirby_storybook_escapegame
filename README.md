@@ -7,6 +7,8 @@
 ### Description
 Ce projet est un **livre interactif en ligne** basé sur le concept "Un livre dont vous êtes le héros", avec pour thème l'univers magique de **Kirby**. Le joueur navigue dans l'histoire en faisant des choix qui influencent le déroulement du récit. **L'objectif : s'échapper de l'histoire !**
 
+<img width="1754" height="1244" alt="image" src="https://github.com/user-attachments/assets/edada266-e779-4b60-b0ec-c367c877d099" />
+
 ### Contexte du Projet
 **Projet universitaire** réalisé dans le cadre du cours de **développement web (S4)**, axé sur la conception et le design de sites web interactifs.
 
