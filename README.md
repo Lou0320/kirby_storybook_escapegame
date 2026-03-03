@@ -37,7 +37,7 @@ Kirby est un personnage emblématique de Nintendo, créé par Masahiro Sakurai e
 #### Comment lancer le projet
 1. **Téléchargez** ou **clonez** ce repository
    ```bash
-   git clone [URL_DU_REPOSITORY]
+   git clone https://github.com/Lou0320/kirby_storybook_escapegame.git
    ```
 2. **Naviguez** vers le dossier du projet
 3. **Ouvrez** le fichier `entree.html` dans votre navigateur web
